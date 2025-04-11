@@ -1,16 +1,27 @@
-## Hi there 👋
+# Oi, eu sou a Cristilla! 👋
 
-<!--
-**Cris-tilla/Cris-tilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Analista com mais de 10 anos de experiência em dados, automações e finanças.  
+📊 Especialista em Excel Avançado, Power BI, Power Automate, AppSheet e Google Apps Script.  
+🤖 Apaixonada por usar Inteligência Artificial e RPA para automatizar tarefas e gerar valor.  
+📈 Atualmente focada em projetos de dados e automações com IA para impulsionar resultados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias & Ferramentas
+
+- Excel Avançado com Power Query
+- Power BI – dashboards e relatórios interativos
+- Power Automate – automação de processos
+- Google AppSheet e Google Apps Script
+- SQL e Python (nível básico/intermediário)
+- ChatGPT, IA Builder, Copilot e outras ferramentas de IA
+- Gestão Financeira, KPIs, indicadores
+
+---
+
+## 🗂 Meus Projetos
+
+🔧 Veja os repositórios ao lado com exemplos de:
+- Dashboards e análises
+- Automações com Google e Microsoft
+- Scripts
